@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @katzadoo
+- 👋 Hi, I’m @katzadoo, a freelance Web developer
 - 👀 I’m interested in becoming a software engineer, or just making programs!
 - 🌱 I’m currently learning Python at the moment, perhaps java next?
 - 💞️ I’m looking to collaborate on any python projects!
