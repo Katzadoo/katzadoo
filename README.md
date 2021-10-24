@@ -4,7 +4,7 @@
 
 I code for fun while listening to various podcasts and music
 
-Skills: Python and a little bit of HTML
+Skills: Python and a little bit of HTML/CSS
 
 - 🔭 I’m currently working on various projects to build my skills 
 - 🌱 I’m currently learning Python! 
