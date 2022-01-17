@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Katz
 #### I am an aspiring software developer, currently a freelance web developer
-![I am an aspiring software developer, currently a freelance web developer](https://github.com/katzadoo/katzadoo/blob/main/katz lofi.png)
+![I am an aspiring software developer, currently a freelance web developer](https://github.com/katzadoo/katzadoo/blob/main/katz_lofi.png)
 
 I code for fun while listening to various podcasts and music
 
