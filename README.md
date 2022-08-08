@@ -13,7 +13,7 @@ Skills: Python and HTML,CSS and a bit Javascript.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Katzadoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/KatzDev)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Katzadoo&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katzadoo&show_icons=false&theme=chartreuse-dark)
 
 <!---
 katzadoo/katzadoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
