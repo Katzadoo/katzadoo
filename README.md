@@ -1,15 +1,27 @@
 <p align="center">
   <samp>
-    <a href="//https://katzadoo.github.io/">me</a> .
+    <a href="//https://ludkadev.space/">me</a> .
     <a href="//https://dev.to/katzdev">Dev.to</a> .
-    <a href="https://github.com/Katzadoo?tab=repositories">projects</a> .
-    <a href="https://open.spotify.com/user/dalitsoomg">spotify</a> .
-    <a href="https://twitter.com/Katzadoo">tweets</a> 
+    <a href="https://github.com/dalictn?tab=repositories">projects</a> 
   </samp>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%green&size=18&vCenter=true&height=24&lines=Hi+there%2C+I'm+KatzDev.;I+make+stuff.;;Hit+me+up+on+discord!+(KatzDev3374);FOSS+enthusiast.;)
+#### Interested in:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%blue&size=18&vCenter=true&height=24&lines=/Robotics/;/Software+Development/;/FOSS+Software/;/Server+building/;/Networking/;/PC+building/;/Cyber+Security/)
 
-#### I am an aspiring software development engineer, currently a freelance web developer
-<a href=#><img src="contributions.svg"></a>
+### Aspiring Software Development Engineer, currently a student
+
+## Contact me on:
+
+### Discord:
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/388585181012951040)](https://discord.com/users/388585181012951040)
+
+### Telegram:
+
+https://t.me/dalictn
+
+### Matrix:
+
+@dalictn:matrix.org
 
